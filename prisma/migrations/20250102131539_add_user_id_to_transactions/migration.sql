@@ -5,4 +5,4 @@
 
 */
 -- AlterTable
-ALTER TABLE "Transaction" ADD COLUMN     "UserId" TEXT NOT NULL;
+ALTER TABLE "Transaction" ADD COLUMN     "userId" TEXT NOT NULL;
